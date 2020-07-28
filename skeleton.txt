@@ -1,0 +1,12 @@
+|-- app
+      |-- modules                         -->
+          |--admin
+              |-- [+] material-dashboard
+              |-- admin-routing.module.ts
+              |-- admin.module.ts
+          |--staff
+              |-- [+] material-dashboard
+              |-- staff-routing.module.ts
+              |-- staff.module.ts
+      |--core                             --> root app module
+          |-- app-nav
